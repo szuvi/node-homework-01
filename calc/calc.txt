@@ -1,0 +1,1 @@
+Wynik dodawania 8 i 4 to 12, Wynik odejmowania 8 i 4 to 12, Wynik mnożenia 8 i 4 to 12, Wynik dzielenia 8 i 4 to 12, Liczba PI to 3.141592653589793
